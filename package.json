@@ -1,0 +1,26 @@
+{
+  "name": "sauce-kun",
+  "version": "1.0.1",
+  "description": "Another \"sauce\" bot ",
+  "main": "main.js",
+  "scripts": {
+    "test": "node . "
+  },
+  "author": "RURIKO123",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "extract-urls": "^1.3.2",
+    "nhentai-js": "^4.0.0",
+    "sagiri": "^3.1.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sauce",
+    "saucenao",
+    "image",
+    "search",
+    "discord",
+    "nodejs"
+  ]
+}
