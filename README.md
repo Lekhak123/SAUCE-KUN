@@ -7,3 +7,9 @@ THEN: Configure the following in the config.json file.
 `"sauce_token" `
  
 Once this is done, run the bot using `node .`
+
+the supported commands are: prefix+sauce (for saucenao search and works for both message.attachments or links)
+
+
+
+&& prefix+doujin (for getting info of a doujin with the code)
