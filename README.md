@@ -1,2 +1,8 @@
 # SAUCE-KUN
-Simple sauce bot for discord that uses saucenao as well as gives info about a doujin.
+
+Install all modules using `npm install`.
+THEN: Configure the following in the config.json file.
+   ` "discord_token"`
+	`	"prefix"`
+   ` "sauce_token" `
+   
