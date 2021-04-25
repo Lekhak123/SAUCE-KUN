@@ -6,3 +6,4 @@ THEN: Configure the following in the config.json file.
 `"prefix"`
 `"sauce_token" `
  
+Once this is done, run the bot using `node .`
