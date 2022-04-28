@@ -1,5 +1,15 @@
 # SAUCE-KUN
 
+
+***Deprecated! I have built a newer working version, will upload it in a month (currently having exams)***
+
+
+
+
+
+
+
+
 Install all modules using `npm install`.
 THEN: Configure the following in the config.json file.
 `"discord_token"`
