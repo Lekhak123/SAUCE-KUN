@@ -4,9 +4,7 @@
 ***Deprecated! I have built a newer working version, will upload it in a month (currently having exams)***
 
 
-
-
-
+EDIT: [Here is the new version](https://github.com/ruriko123/sauce-finder-v2)
 
 
 
